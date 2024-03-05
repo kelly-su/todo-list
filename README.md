@@ -10,22 +10,11 @@ This **To-Do List Web Application** is designed to help users manage their daily
 - **Persistent Storage:** Tasks are stored locally in the browser, ensuring that users don't lose their data between sessions.
 - **Responsive Design:** The application is fully responsive, providing an optimal viewing experience across a wide range of devices.
 
-## Getting Started
+## Access the Application
 
-### Prerequisites
-A modern web browser capable of running HTML, CSS, and JavaScript.
+The To-Do List Web Application is live and can be accessed [here](https://klsuu.github.io/todo-list/).
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/klsuu/todo-list.git
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd todo-list
-3. **Open the application:**
-    Open the index.html file in your web browser.
+Simply click the link to view and use the application in your web browser. No installation necessary!
 
 ### Application Preview
 
