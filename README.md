@@ -16,9 +16,3 @@ The To-Do List Web Application is live and can be accessed [here](https://klsuu.
 
 Simply click the link to view and use the application in your web browser. No installation necessary!
 
-### Application Preview
-
-Here's a look at the To-Do List Web Application in action:
-
-![To-Do List Application Preview](images/todo-list.png)
-
