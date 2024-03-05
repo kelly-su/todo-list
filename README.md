@@ -12,7 +12,7 @@ This **To-Do List Web Application** is designed to help users manage their daily
 
 ## Access the Application
 
-The To-Do List Web Application is live and can be accessed [here](https://klsuu.github.io/todo-list/).
+The To-Do List Web Application is live and can be accessed [here](https://kelly-su.github.io/todo-list/).
 
 Simply click the link to view and use the application in your web browser. No installation necessary!
 
