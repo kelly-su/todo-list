@@ -1,7 +1,7 @@
 # To-Do List Web Application
 
 ## Introduction
-This **To-Do List Web Application** is designed to help users manage their daily tasks efficiently. It provides a simple and intuitive interface for adding, completing, and removing tasks. Built with **HTML**, **CSS**, and **JavaScript**, it's a lightweight yet powerful tool to keep track of your daily obligations.
+This **To-Do List Web Application** is designed to help users manage their daily tasks efficiently. It provides a simple and intuitive interface for adding, completing, and removing tasks. Built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Features
 - **Add Tasks:** Users can add new tasks to their to-do list with a simple input field and an "Add" button.
