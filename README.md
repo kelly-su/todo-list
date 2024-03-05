@@ -26,3 +26,10 @@ A modern web browser capable of running HTML, CSS, and JavaScript.
     cd todo-list
 3. **Open the application:**
     Open the index.html file in your web browser.
+
+### Application Preview
+
+Here's a look at the To-Do List Web Application in action:
+
+![To-Do List Application Preview](images/todo-list.png)
+
