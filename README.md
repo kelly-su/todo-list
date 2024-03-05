@@ -19,7 +19,7 @@ A modern web browser capable of running HTML, CSS, and JavaScript.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/klsuu/todo-list.git
 
 2. **Navigate to the project directory:**
     ```bash
