@@ -13,11 +13,12 @@ function addTask() {
         feedback.textContent = '';
         let li = document.createElement("li");
         let taskText = inputBox.value; 
-        let formattedDate = formatDate(dueDate.value); 
+        let formattedDate = dueDate.value ? formatDate(dueDate.value) : "";
 
         let textContainer = document.createElement("div");
         textContainer.classList.add("text-container");
-        textContainer.innerHTML = `${taskText} <span class="due-label"></span><span class="due-date">${formattedDate}</span>`;
+        let dueText = formattedDate ? `<span class="due-date">${formattedDate}</span>` : "";
+        textContainer.innerHTML = `${taskText} ${dueText}`;
 
         li.appendChild(textContainer);
         
