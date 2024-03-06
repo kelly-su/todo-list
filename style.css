@@ -34,7 +34,7 @@
     justify-content: space-between;
     background: #edeef0;
     border-radius: 30px;
-    padding-left: 20px;
+    padding-left: 15px;
     margin-bottom: 25px;
 }
 input{
@@ -57,7 +57,7 @@ button{
 }
 ul li{
     list-style: none;
-    font-size: 17px;
+    font-size: 16px;
     padding: 12px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
@@ -103,4 +103,18 @@ ul li span:hover{
     height: 14px;
     text-align: center;
     width: 100%;
+}
+input[type="date"] {
+    background-color: #f3f4f6;
+    border-radius: 30px;
+    padding: 15px 30px;
+    border: 1px solid #ccc;
+}
+.due-date{
+    color: #3533d6;
+    font-size: 16px;
+    padding: 2px 77px;
+}
+.due-date:hover {
+    background-color: transparent; 
 }
