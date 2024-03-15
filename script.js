@@ -36,8 +36,12 @@ function addTask() {
 
 function formatDate(dateString) {
     let date = new Date(dateString);
-    let day = ('0' + date.getDate()).slice(-2);
-    let month = ('0' + (date.getMonth() + 1)).slice(-2); 
+
+    let userTimezoneOffset = date.getTimezoneOffset() * 60000; 
+    let adjustedDate = new Date(date.getTime() + userTimezoneOffset);
+
+    let day = ('0' + adjustedDate.getDate()).slice(-2);
+    let month = ('0' + (adjustedDate.getMonth() + 1)).slice(-2); 
 
     return `${month}/${day}`;
 }
